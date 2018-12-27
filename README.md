@@ -6,7 +6,7 @@ Java-FTP服务器
 - Abstract: Java FTP Server
 
 ## Functions
-使用apache commons-net搞的小项</br>
+使用apache commons-net搞的小项目</br>
 此FTP服务器不是自己创建的, 而是用其他软件创建本地服务器后, 控制java代码里面的IP地址与端口来实现上传, 下载文件. 
 
 ## Defects
